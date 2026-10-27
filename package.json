@@ -1,6 +1,6 @@
 {
   "name": "base36-codec",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Encode and decode byte arrays using the case-insensitive Base36 alphabet (0-9, A-Z) with big-integer arithmetic.",
   "type": "module",
   "main": "src/index.js",
